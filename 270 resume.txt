@@ -1,0 +1,25 @@
+<h1> RESUME </h1>
+
+
+<h2> NAME : SHREE T </h2>
+<h2> PERSONEL INFORMATION </h2><pre>
+D.O.B : 05.03.2004
+Age   : 20 yrs
+Address : 147, Mohanram Nagar,
+          Mogappair,
+          Chennai - 600 037
+<pre>
+<h2> EDUCATION </h2><pre>
+School : D.A.V Sr. Sec. School
+College : Rajalakshmi Engineering College
+</pre>
+<h2> SKILLS </h2><pre>
+Python
+Java
+C
+Structurd Query Language
+</pre>
+<h2> CONTACT </h2><pre>
+Mail : 220701270@rajalakshmi.edu.in
+Phone : +91 7397365908
+</pre>
